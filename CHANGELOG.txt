@@ -1,0 +1,2 @@
+se modifica el CHANGELOG 
+cambio para develop
